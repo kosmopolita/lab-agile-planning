@@ -17,7 +17,7 @@ assignees: ''
 ### Acceptance Criteria
 
 ```gherkin
-Gian [some context]
+Given [some context]
 When [certain action is taken]
 Then [the outcome of action is observed]
 ```
